@@ -1,0 +1,5 @@
+summary: LZMA-based compression program similar to gzip or bzip2
+webpage: https://www.nongnu.org/lzip
+version: 1.24.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/lzip-1.24.1-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: b7ca09b2466c3055723f0594450c14b337bca32aa66e53042b09c7141790176d

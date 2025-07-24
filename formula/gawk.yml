@@ -1,0 +1,5 @@
+summary: GNU awk utility
+webpage: https://www.gnu.org/software/gawk
+version: 5.3.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/gawk-5.3.1-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: 371f05405bd780994d8f739d2c37d3d127c5f9f8c72c30fc0f936b3c15c6489b

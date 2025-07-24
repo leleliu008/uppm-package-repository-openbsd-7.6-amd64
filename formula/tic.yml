@@ -1,0 +1,5 @@
+summary: A command-line tool to translates a terminfo file from source format into compiled format
+webpage: https://www.gnu.org/software/ncurses
+version: 6.5 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/tic-6.5-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: 5d0adc86874b26340f038e5ae8026aa628d36f83f6ef060b9d4d52a55125794f

@@ -1,0 +1,5 @@
+summary: Apply a diff file to an original
+webpage: https://savannah.gnu.org/projects/patch
+version: 2.7.6 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/patch-2.7.6-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: a22fcadaffd4861c1ef4bd29fc8a8d24f8dd0ee6b2c1ac0bbd1af864aeb787a4

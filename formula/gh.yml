@@ -1,0 +1,5 @@
+summary: A command-line interface that brings github.com functionality to your terminal
+webpage: https://github.com/cli/cli
+version: 2.76.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/gh-2.76.0-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: ab3eb4ae3a3a11ca85188c75e07932c376efa549e5c151a72da206fcb67515c0

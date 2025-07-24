@@ -1,0 +1,5 @@
+summary: A command-line tool for interacting with SQLite databases
+webpage: https://sqlite.org/
+version: 3.49.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/sqlite3-3.49.1-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: c77939968b2b117aac43b6e727ee50bd491a9c480d91a490c6cfa0ee4e3d3e16

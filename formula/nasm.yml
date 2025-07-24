@@ -1,0 +1,5 @@
+summary: Netwide Assembler (NASM) is an 80x86 assembler
+webpage: https://www.nasm.us
+version: 2.16.03 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/nasm-2.16.03-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: 879314c230b2f7733ea57ecf0f7aa50d8a256a6f5f613da50c1dc6768bacf042

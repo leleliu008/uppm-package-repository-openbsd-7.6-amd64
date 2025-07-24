@@ -1,0 +1,5 @@
+summary: A free and open source distributed version control system with speed and efficiency
+webpage: https://git-scm.com/
+version: 2.50.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/git-2.50.0-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: 6d08d5dbfc2e353f9a59e8870de832cee3293643a44b5fe579c0413b4049a708

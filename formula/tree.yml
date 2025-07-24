@@ -1,0 +1,5 @@
+summary: Display directories as trees (with optional color/HTML output)
+webpage: https://oldmanprogrammer.net/source.php?dir=projects/tree
+version: 2.2.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/tree-2.2.1-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: f738638858a3ae2a530cbac158873be2cc926879d782b3cc135bb148829eaef6

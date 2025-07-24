@@ -1,0 +1,5 @@
+summary: OIL(Optimized Inner Loops) Runtime Compiler
+webpage: https://gstreamer.freedesktop.org/projects/orc.html
+version: 0.4.41 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/orcc-0.4.41-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: 58557f4541dd08330e9d52fc06a206ba8efb504c32d26eb6a5888ef04b366e36

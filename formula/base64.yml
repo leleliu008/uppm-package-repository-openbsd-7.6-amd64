@@ -1,0 +1,5 @@
+summary: base64 encoder and decoder
+webpage: https://github.com/leleliu008/C-examples
+version: 2025.07.24 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/base64-2025.07.24-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: c86a0924d143dd8c2a08f2586798a6433b35e09d496294870c0c8e8e043f68ec

@@ -1,0 +1,5 @@
+summary: BSD tar
+webpage: https://www.libarchive.org/
+version: 3.8.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/bsdtar-3.8.1-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: eab4a2b994622cf68773200d89d5046bcd3eb3ec8c54293db644503b5fc2b3cb

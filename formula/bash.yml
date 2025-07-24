@@ -1,0 +1,5 @@
+summary: Bourne-Again SHell, a UNIX command interpreter
+webpage: https://www.gnu.org/software/bash
+version: 5.2.37 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/bash-5.2.37-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: 0cead1468c8116ca916035f954d02b092f4ce342a71da01c6a516cc7afaa1c3b

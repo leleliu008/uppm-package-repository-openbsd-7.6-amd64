@@ -1,0 +1,5 @@
+summary: Compression and file packaging/archive utility
+webpage: https://infozip.sourceforge.io/Zip.html
+version: 3.0.11 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/zip-3.0.11-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: 264f983182313037b9ff072fc16c176cdd414a62c4f571901b098d9ed7f62d65

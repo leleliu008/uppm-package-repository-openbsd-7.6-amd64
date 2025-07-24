@@ -1,0 +1,5 @@
+summary: A command line utility for calculating BLAKE3 hashes
+webpage: https://github.com/BLAKE3-team/BLAKE3
+version: 1.8.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/b3sum-1.8.2-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: f4c22006a499cf3ae5b84554d3ec291b1c516b82e1b251e18585b84ed676214c

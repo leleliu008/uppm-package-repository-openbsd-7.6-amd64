@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 2.3.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/pkgconf-2.3.0-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: 04439c863fbb3245206ecd9d928820ace56bd77bc7ef45f6fc0d8fe48825a94a

@@ -1,0 +1,5 @@
+summary: A free, general-purpose data compression with a high compression ratio
+webpage: https://tukaani.org/xz
+version: 5.8.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64/releases/download/2025.07.24/xz-5.8.1-openbsd-7.6-amd64.release.tar.xz 
+bin-sha: f9164fc2cca6841beac682e7e258714f6f5cc73583bd4e581f538f81e971f64c
